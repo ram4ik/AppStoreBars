@@ -11,7 +11,7 @@ import SwiftUI
 struct AppStoreBarsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
